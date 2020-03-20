@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: mybatisplus-spring-boot-starter:1.0.5:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/mybatisplus-spring-boot-starter/1.0.5/unknown/1.0.5-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/mybatisplus-spring-boot-starter/1.0.5/unknown/1.0.5-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/mybatisplus-spring-boot-starter/1.0.5/unknown/1.0.5-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

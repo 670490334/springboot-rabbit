@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Spring-boot-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springboot-translation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sprintboot-redis" charset="UTF-8" />
+  </component>
+</project>

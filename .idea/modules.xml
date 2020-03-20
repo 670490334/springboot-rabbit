@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springboot-translation/Springboot-translation.iml" filepath="$PROJECT_DIR$/Springboot-translation/Springboot-translation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-boot-aop/aop.iml" filepath="$PROJECT_DIR$/Spring-boot-aop/aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-translation/redis.iml" filepath="$PROJECT_DIR$/Springboot-translation/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spirngboot-rabbit.iml" filepath="$PROJECT_DIR$/.idea/spirngboot-rabbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" filepath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sprintboot-redis/sprintboot-redis.iml" filepath="$PROJECT_DIR$/sprintboot-redis/sprintboot-redis.iml" />
+    </modules>
+  </component>
+</project>
